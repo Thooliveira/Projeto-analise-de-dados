@@ -1,9 +1,9 @@
 {
- "Carro": ,
-    "Ônibus": ,
-    "Trem": ,
-    "Taxi": ,
-    "Avião": ,
-    "Navio": 
+     "Carro": 10 ,
+    "Ônibus": 10 ,
+    "Trem": 10 ,
+    "Taxi": 10 ,
+    "Avião": 10 ,
+    "Navio": 50
  
 }
